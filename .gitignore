@@ -1,0 +1,8 @@
+```text
+node_modules/
+.env
+.vscode/
+.idea/
+*.log
+dist/
+build/
